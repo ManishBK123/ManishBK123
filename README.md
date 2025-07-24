@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manish Sunar</h1>
-<h3 align="center">A passionate MERN Stack learner from Nepal</h3>
+<h3 align="center"> MERN Stack learner </h3>
 
 - 🌱 I’m currently learning **MERN Stack**
-- 💬 Ask me about **HTML, CSS, JS, React, Node.js**
+- 💬 Ask me about **HTML, CSS, JS**
 - 📫 How to reach me: manishbk123@example.com
 
 ---
@@ -30,6 +30,6 @@
 ---
 
 ### 🌐 Connect with me:
-[![Facebook](https://www.facebook.com/manish.sunar.985550)(style=flat&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)  
+[![Facebook](https://www.facebook.com/manish.sunar.985550)(style=flat&logo=facebook&logoColor=white)]  
 [![Instagram](https://www.instagram.com/manishsunar99/)
 style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
