@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manish Sunar</h1>
+<h1 align="center">Hi!👋, I'm Manish Sunar</h1>
 <h3 align="center"> MERN Stack learner </h3>
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -30,6 +30,5 @@
 ---
 
 ### 🌐 Connect with me:
-[![Facebook](https://www.facebook.com/manish.sunar.985550)(style=flat&logo=facebook&logoColor=white)]  
+[![Facebook](https://www.facebook.com/manish.sunar.985550)
 [![Instagram](https://www.instagram.com/manishsunar99/)
-style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
