@@ -30,5 +30,5 @@
 ---
 
 ### 🌐 Connect with me:
-[![Facebook](https://www.facebook.com/manish.sunar.985550)
-[![Instagram](https://www.instagram.com/manishsunar99/)
+facebook:(https://www.facebook.com/manish.sunar.985550)
+Instagram:(https://www.instagram.com/manishsunar99/)
